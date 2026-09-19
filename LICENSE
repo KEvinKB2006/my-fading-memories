@@ -1,21 +1,22 @@
-MIT License
+PROPRIETARY SOURCE CODE & ASSET LICENSE (ALL RIGHTS RESERVED)
 
-Copyright (c) 2026 KevinKB2006
+Copyright (c) 2026 Kevin Barbagallo. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. PROPRIETARY RIGHTS
+This project, including without limitation its source code, game mechanics, perspective puzzle logic, narrative design, concept art, 3D models, shaders, and documentation (collectively, the "Work"), is the sole proprietary property of Kevin Barbagallo (the "Author").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. PERMITTED USE
+You are granted a limited, revocable, non-exclusive, and personal right to view, download, and inspect the repository solely for evaluation, peer review, candidate recruitment, or educational examination.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. PROHIBITIONS
+You may NOT:
+  a. Copy, clone, reproduce, distribute, or sub-license the Work or any component thereof;
+  b. Use any portion of the code, mechanics, art, or narrative assets in commercial or non-commercial games, software, or media;
+  c. Create derivative works based on the concepts, characters, or mechanics of "My Fading Memories";
+  d. Publish, host, or execute playable builds publicly without explicit written authorization from the Author.
+
+4. TRADEMARKS AND CHARACTERS
+All character designs, visual identities, titles, and logos associated with "My Fading Memories" are exclusively reserved to the Author.
+
+5. DISCLAIMER
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE WORK.
